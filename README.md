@@ -2,9 +2,8 @@
 
 ## 🚀 About Me  
 - 🖥️ **Information Technology Student** at Air University Islamabad.  
-- 🔍 Passionate about **Data Structures and Algo** and **Web Development**.  
-- 🏀 A proud **6ft 2in basketball player** and topper of my batch.  
-- 🌐 Recently built my first **MERN stack responsive website** for a **Task Management System**.  
+- 🔍 Passionate about **Data Structures and Algo** ,**Coding** and **Web Development**.  
+- 🏃🏻 A proud **6ft 2in Athlete** and topper of my batch.  
 - 🎯 Constantly striving to learn and grow as a developer.
 
 ## 💻 Tech Stack  
@@ -30,7 +29,7 @@
     
 
 ## 🎯 What I’m Learning  
-- **Advanced Data Structures** (Stacks, Queues, Linked Lists, Trees,).  
+- **Advanced Data Structures** (Stacks, Queues, Linked Lists, Trees, Graphs, Hashes, Algorithims).  
 - **Subnetting** and **Network Configuration**  in Computer Networks.  
 - **Socket Programming** for real-world applications.
 
@@ -40,7 +39,7 @@
 - 📱 LinkedIn: https://www.linkedin.com/in/syed-gohar-hussain-95801a345/ 
 
 ## 🌟 Fun Facts  
-- 🏀 I play basketball and love to compete.  
+- 🏃🏻 I play basketball, cricket, squash, hockey and table tennis and love to compete.  
 - 📚 I enjoy teaching others
   
 ---
