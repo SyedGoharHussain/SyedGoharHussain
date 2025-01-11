@@ -41,6 +41,7 @@
 ## 🌟 Fun Facts  
 - 🏃🏻 I play basketball, cricket, squash, hockey and table tennis and love to compete.  
 - 📚 I enjoy teaching others
+- 🎤 I am part time singer
   
 ---
 
