@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 🖥️ **Information Technology Student** at Air University Islamabad.  
 - 🔍 Passionate about **Data Structures and Algo** ,**Coding** and **Web Development**.  
-- 🏃🏻 A proud **6ft 2in Athlete** and topper of my batch.  
+- 🏃🏻 A proud **6ft 2in Athlete** and once upon a time topper of my batch 😭.  
 - 🎯 Constantly striving to learn and grow as a developer.
 
 ## 💻 Tech Stack  
@@ -25,7 +25,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🏆 Achievements  
-- 🏅 Topped my batch by achieving **SGPA 3.63** in my second semester.  
+- 🏅 Topped my batch by achieving **SGPA 3.63** in my second semester.
+-  📱 Leetcode: https://leetcode.com/u/y9MeUSUMvs/
     
 
 ## 🎯 What I’m Learning  
@@ -35,7 +36,7 @@
 
 ## 📫 How to Reach Me  
 - 📧 Email:230930@students.au.edu.pk 
-- 🌐 GitHub: https://github.com/SyedGoharHussain  
+- 🌐 GitHub: https://github.com/SyedGoharHussain
 - 📱 LinkedIn: https://www.linkedin.com/in/syed-gohar-hussain-95801a345/ 
 
 ## 🌟 Fun Facts  
