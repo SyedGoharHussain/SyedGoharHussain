@@ -3,7 +3,6 @@
 ## 🚀 About Me  
 - 🖥️ **Information Technology Student** at Air University Islamabad.  
 - 🔍 Passionate about **Data Structures and Algo** ,**Coding**, **Web Development**  and ""App development"".  
-- 🏃🏻 A proud **6ft 2in Athlete** and once upon a time topper of my batch 😭.  
 - 🎯 Constantly striving to learn and grow as a developer.
 
 ## 💻 Tech Stack  
@@ -27,7 +26,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## 🏆 Achievements  
-- 🏅 Topped my batch by achieving **SGPA 3.63** in my second semester.
+- 🏅 Topper of my batch.
 -  📱 Leetcode: https://leetcode.com/u/y9MeUSUMvs/
     
 
