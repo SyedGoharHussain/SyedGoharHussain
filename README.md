@@ -1,53 +1,82 @@
-# Hi there, I'm Gohar! 👋  
+<!-- Banner Image (customize or create your own at canva.com or banner.dev) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Gohar!;Passionate+Developer;Lifelong+Learner;Let's+connect!&center=true&width=500&height=45">
+</p>
 
-## 🚀 About Me  
-- 🖥️ **Information Technology Student** at Air University Islamabad.  
-- 🔍 Passionate about **Data Structures and Algo** ,**Coding**, **Web Development**  and ""App development"".  
-- 🎯 Constantly striving to learn and grow as a developer.
+<h2 align="center">🚀 About Me</h2>
+<ul>
+  <li>🖥️ <b>Information Technology Student</b> at Air University, Islamabad.</li>
+  <li>🔍 <b>Passionate</b> about Data Structures, Algorithms, Coding, Web & App Development.</li>
+  <li>🎯 Always striving to learn, grow, and take on new challenges as a developer.</li>
+</ul>
 
-## 💻 Tech Stack  
-- **Languages**:  
-  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-  ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-  ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-  ![Dart](https://img.shields.io/badge/-dart-F7DF1E?style=flat-square&logo=dart&logoColor=blue)
-
-- **Libraries & Frameworks**:  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/-flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-- **Tools**:  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
-  ![VS Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)  
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-## 🏆 Achievements  
-- 🏅 Topper of my batch.
--  📱 Leetcode: https://leetcode.com/u/y9MeUSUMvs/
-    
-
-## 🎯 What I’m Learning  
-- **Advanced Data Structures** (Stacks, Queues, Linked Lists, Trees, Graphs, Hashes, Algorithims).  
-- **Subnetting** and **Network Configuration**  in Computer Networks.  
-- **Socket Programming** for real-world applications.
-- **MERN** for Web Development
-- **Flutter** for App development
-
-## 📫 How to Reach Me  
-- 📧 Email:230930@students.au.edu.pk 
-- 🌐 GitHub: https://github.com/SyedGoharHussain
-- 📱 LinkedIn: https://www.linkedin.com/in/syed-gohar-hussain-95801a345/ 
-
-## 🌟 Fun Facts  
-- 🏃🏻 I play basketball, cricket, squash, hockey and table tennis and love to compete.  
-- 📚 I enjoy teaching others
-- 🎤 I am part time singer
-  
 ---
 
-⭐ **"Consistency is the key to success!"**  
-If you like my work, feel free to **star** the repositories and connect with me! 🚀
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,java,dart,react,nodejs,flutter,mongodb,vscode,git,github" />
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+<ul>
+  <li>🥇 <b>Topper</b> of my batch.</li>
+  <li>🏅 Active problem solver on <a href="https://leetcode.com/u/y9MeUSUMvs/">LeetCode</a>.</li>
+</ul>
+
+---
+
+<details>
+  <summary>🎯 <b>What I’m Learning (click to expand)</b></summary>
+  <ul>
+    <li>Advanced Data Structures: Stacks, Queues, Linked Lists, Trees, Graphs, Hash Tables, Algorithms</li>
+    <li>Subnetting & Network Configuration in Computer Networks</li>
+    <li>Socket Programming for real-world apps</li>
+    <li>MERN Stack for Full-Stack Web Development</li>
+    <li>Flutter for Cross-Platform App Development</li>
+  </ul>
+</details>
+
+---
+
+<h2 align="center">📈 GitHub Stats & Activity</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedGoharHussain&show_icons=true&theme=radical" alt="Gohar's GitHub Stats" height="150">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedGoharHussain&theme=radical" height="150">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SyedGoharHussain&theme=react-dark" alt="activity graph" height="150"/>
+</p>
+
+---
+
+<h2 align="center">📫 How to Reach Me</h2>
+
+<p align="center">
+  <a href="mailto:230930@students.au.edu.pk">
+    <img src="https://img.shields.io/badge/Email-230930@students.au.edu.pk-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/SyedGoharHussain">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/syed-gohar-hussain-95801a345/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+<h2 align="center">🌟 Fun Facts</h2>
+<ul>
+  <li>🏃🏻 I love sports: basketball, cricket, squash, hockey, and table tennis</li>
+  <li>📚 Passionate about teaching and mentoring others</li>
+  <li>🎤 Part-time singer and music enthusiast</li>
+  <li>⭐ <b>"Consistency is the key to success!"</b></li>
+</ul>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SyedGoharHussain&style=flat-square&color=blue" alt="profile views"/>
+  <br>
+  <b>If you find my work helpful, don't forget to ⭐ star my repositories and connect with me! 🚀</b>
+</p>
