@@ -31,7 +31,7 @@
 ---
 
 ## 🏆 Achievements
-- 🥇 **Topper** of my batch.
+- 🥇 Highest gpa achiever of entire IT batch F-23.
 - 🏅 Active problem solver on [LeetCode](https://leetcode.com/u/y9MeUSUMvs/).
 
 ---
