@@ -10,7 +10,7 @@
 
 ---
 
-<h2><img src="https://api.iconify.design/tabler/user-circle.svg?color=%236366F1&width=26"/>&nbsp; About Me</h2>
+<h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/>&nbsp; About Me</h2>
 
 <table align="center">
 <tr>
@@ -34,7 +34,7 @@ const gohar = {
 
 </td>
 <td width="40%" align="center">
-<img src="https://api.iconify.design/tabler/code.svg?color=%237C3AED&width=120"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
 </td>
 </tr>
 </table>
