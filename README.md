@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,100:7B2FF7&height=200&section=header&text=Syed%20Gohar%20Hussain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Applied%20AI%2FCV&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SyedGoharHussain/SyedGoharHussain/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SyedGoharHussain/SyedGoharHussain/main/light.svg">
+  <img alt="Syed Gohar Hussain banner" src="https://raw.githubusercontent.com/SyedGoharHussain/SyedGoharHussain/main/light.svg" width="900">
+</picture>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=1200&color=00F0FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Mobile+App+Developer+(Flutter+%2F+React+Native);Applied+AI+%26+Computer+Vision+Engineer;RAG+%26+LLM+Integrations;Cloud+%26+DevOps+(GCP+%2F+Docker+%2F+Kubernetes)" alt="Typing SVG" />
-
-<br/>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-gohar-hussain-b165a4283/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SyedGoharHussain)
